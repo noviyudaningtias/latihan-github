@@ -1,1 +1,1 @@
-Repo ini digunakan oleh saya untuk bwlajar menggunakan github.
+Repo ini digunakan oleh saya untuk belajar menggunakan github.
